@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAMIR.ProductWebAPI", "..\AAMIR.ProductWebAPI\AAMIR.ProductWebAPI.csproj", "{D8879296-9B0C-469A-92C4-640A5BF9750A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAMIR.WebAPI.Store", "..\AAMIR.WebAPI.Store\AAMIR.WebAPI.Store.csproj", "{569C235F-251E-4810-B7E8-F6E7CE8E1D94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D8879296-9B0C-469A-92C4-640A5BF9750A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8879296-9B0C-469A-92C4-640A5BF9750A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8879296-9B0C-469A-92C4-640A5BF9750A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569C235F-251E-4810-B7E8-F6E7CE8E1D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569C235F-251E-4810-B7E8-F6E7CE8E1D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569C235F-251E-4810-B7E8-F6E7CE8E1D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569C235F-251E-4810-B7E8-F6E7CE8E1D94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
